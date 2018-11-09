@@ -3,7 +3,7 @@ package Aufgabe5;
 public class Aufgabe5 {
 
 	public static void main(String[] args) {
-
+	System.out.println("Hallo");
 		
 	}
 
